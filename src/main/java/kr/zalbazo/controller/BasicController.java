@@ -16,6 +16,7 @@ public class BasicController {
         return "웰컴이다 이말이야";
     }
 
+    
     @GetMapping("/home")
     public String home(){
         log.info("로그에 찍혀야한단 말이야");

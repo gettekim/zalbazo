@@ -22,10 +22,10 @@
                 </div>
                 <p class="lead">반려동물에 대해 궁금한 것을 묻고 답해보세요</p>
                 <hr>
-                <table class="table table-striped" style="max-width: 1080px;">
+                <table class="table table-striped" style="max-width: 2000px;">
                     <thead>
                         <tr>
-                            <th scope="col" class="mobile" style="width:55px; text-align:center;">번호</th>
+                            <th scope="col" class="mobile" style="width:80px; text-align:center;">번호</th>
                             <th scope="col" class="mobile" style="text-align:center;">제목</th>
                             <th scope="col" class="mobile" style="width:80px; text-align:center;">작성자</th>
                             <th scope="col" class="mobile" style="width:120px; text-align:center;">날짜</th>
